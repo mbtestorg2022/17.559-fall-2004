@@ -48,12 +48,57 @@ Grading Criteria
 
 The grading scheme follows the course requirement format and will be weighted as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Written Requirement | 50% |
-| Mid-term Exam | 10% |
-| Regular Reading of the Assigned Materials | 20% |
-| Active Class Participation and Discussion | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Requirement
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Exam
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Regular Reading of the Assigned Materials
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Class Participation and Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Materials
 ----------------
@@ -63,20 +108,144 @@ All reading assignments are listed in the [readings]({{< baseurl >}}/pages/readi
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part I: Framework and Approach**{{< /td-colspan >}} ||
-| 1 | Introduction |
-| 2 | Concepts and Theories |
-| 3 | Modes of (In)security and (Un)sustainability |
-| 4 | Local Conditions and Global Dilemmas |
-| {{< td-colspan 2 >}}**Part II: Cases and Comparisons**{{< /td-colspan >}} ||
-| 5 | When People Move or Boundaries Shift |
-| 6 | When Resources are "Scarce" |
-| 7 | When Environments "Strain" |
-| 8 | When Regimes Fail or States Collapse |
-| 9 | When Wars Happen |
-| {{< td-colspan 2 >}}**Part III: Implications and Inferences**{{< /td-colspan >}} ||
-| 10 | Technology Imperatives |
-| 11 | Managing Security and Sustainability |
-| 12 | Design Systems for Security and Sustainability
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part I: Framework and Approach**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts and Theories
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Modes of (In)security and (Un)sustainability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Local Conditions and Global Dilemmas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: Cases and Comparisons**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+When People Move or Boundaries Shift
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+When Resources are "Scarce"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+When Environments "Strain"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+When Regimes Fail or States Collapse
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+When Wars Happen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part III: Implications and Inferences**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Technology Imperatives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Managing Security and Sustainability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Design Systems for Security and Sustainability
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
